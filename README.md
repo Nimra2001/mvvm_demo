@@ -10,6 +10,9 @@ Model–View–ViewModel (MVVM) is a very established architectural pattern when
 
 ![image](file:///var/folders/xj/9gcts4gs681fbyct8m6yml9c0000gn/T/simulator_screenshot_1E807F7D-F577-4E2E-817E-D334C2D4B65C.png)  <img src="https://raw.githubusercontent.com/awais-amjed/awais-amjed/main/hi.gif" width="200" height="200"> 
 
+You can get Api's using this link
+[a link](https://reqres.in/)
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
