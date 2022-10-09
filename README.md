@@ -22,3 +22,5 @@ You can get Api's using this link
 * Any Operating System (ie. MacOS X, Windows)
 * Any IDE with Flutter SDK installed (ie. Android Studio, VSCode etc)
 * Knowledge of Dart and Flutter
+
+## If you are Beginner in Flutter then Learning about basic concepts
