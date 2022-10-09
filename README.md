@@ -6,7 +6,7 @@ A new Flutter project.
 
 Model–View–ViewModel (MVVM) is a very established architectural pattern when it's come to software development. Here I have tried to put MVVM in simple example with rest Api's integration which will help you to implement in any project.
 
-## Getting Started
+## Output
 
 This project is a starting point for a Flutter application.
 
