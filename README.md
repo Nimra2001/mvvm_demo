@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
+img align="center" src="https://uploads.toptal.io/blog/image/127608/toptal-blog-image-1543413671794-80993a19fea97477524763c908b50a7a.png" width="500" height="200">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
