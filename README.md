@@ -1,4 +1,4 @@
-# MVVM_ Flutter
+# mvvm_demo
 
 A new Flutter project.
 
