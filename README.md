@@ -10,7 +10,7 @@ Model–View–ViewModel (MVVM) is a very established architectural pattern when
 <p align="center">
   <img alt="Light" src="https://www.linkpicture.com/q/simulator_screenshot_5A406B95-4C76-4C52-BEEF-3D3BE2AC842D.png" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://www.linkpicture.com/q/simulator_screenshot_5A406B95-4C76-4C52-BEEF-3D3BE2AC842D.png" width="30%">
+  <img alt="Dark" src="https://www.linkpicture.com/q/simulator_screenshot_38719DCA-95CC-466F-BA54-24996B45E858.png" width="30%">
 </p>
 
 You can get Api's using this link
