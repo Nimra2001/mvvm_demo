@@ -19,6 +19,6 @@ You can get Api's using this link
 [a link](https://reqres.in/)
 
 ## Requirements
-Any Operating System (ie. MacOS X, Windows)
-Any IDE with Flutter SDK installed (ie. Android Studio, VSCode etc)
-Knowledge of Dart and Flutter
+* Any Operating System (ie. MacOS X, Windows)
+* Any IDE with Flutter SDK installed (ie. Android Studio, VSCode etc)
+* Knowledge of Dart and Flutter
