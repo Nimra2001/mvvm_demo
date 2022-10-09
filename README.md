@@ -8,7 +8,9 @@ Model–View–ViewModel (MVVM) is a very established architectural pattern when
 
 ## Output
 
-![image](https://www.linkpicture.com/q/simulator_screenshot_5A406B95-4C76-4C52-BEEF-3D3BE2AC842D.png)  <img src="" width="200" height="200"> 
+<img src="https://www.linkpicture.com/q/simulator_screenshot_5A406B95-4C76-4C52-BEEF-3D3BE2AC842D.png" width="200" height="200"> 
+<img src="https://www.linkpicture.com/q/simulator_screenshot_5A406B95-4C76-4C52-BEEF-3D3BE2AC842D.png" width="200" height="200"> 
+<img src="https://www.linkpicture.com/q/simulator_screenshot_5A406B95-4C76-4C52-BEEF-3D3BE2AC842D.png" width="200" height="200"> 
 
 You can get Api's using this link
 [a link](https://reqres.in/)
