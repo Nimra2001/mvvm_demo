@@ -71,7 +71,7 @@ class _LoginViewState extends State<LoginView> {
                 return TextFormField(
                   controller: passwordController,
                   obscureText: obsecurePassword.value,
-                  obscuringCharacter: "!",
+                  obscuringCharacter: "*",
                   focusNode: passwordFocusNode,
                   decoration: InputDecoration(
                     hintText: "Enter your password",
