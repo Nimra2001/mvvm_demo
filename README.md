@@ -19,11 +19,6 @@ You can get Api's using this link
 [a link](https://reqres.in/)
 
 ## Requirements
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Any Operating System (ie. MacOS X, Windows)
+Any IDE with Flutter SDK installed (ie. Android Studio, VSCode etc)
+Knowledge of Dart and Flutter
