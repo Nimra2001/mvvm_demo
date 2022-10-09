@@ -1,6 +1,6 @@
 # mvvm_demo
 
-A new Flutter project with MVVM, Api Integratioon and Provider State Management.
+A new Flutter project with MVVM, Api Integration and Provider State Management.
 
 ![alt text](https://uploads.toptal.io/blog/image/127608/toptal-blog-image-1543413671794-80993a19fea97477524763c908b50a7a.png)
 
