@@ -7,10 +7,15 @@ A new Flutter project.
 Model–View–ViewModel (MVVM) is a very established architectural pattern when it's come to software development. Here I have tried to put MVVM in simple example with rest Api's integration which will help you to implement in any project.
 
 ## Output
-
+<!-- 
 <img src="https://www.linkpicture.com/q/simulator_screenshot_5A406B95-4C76-4C52-BEEF-3D3BE2AC842D.png" width="200" height="200"> 
 <img src="https://www.linkpicture.com/q/simulator_screenshot_5A406B95-4C76-4C52-BEEF-3D3BE2AC842D.png" width="200" height="200"> 
-<img src="https://www.linkpicture.com/q/simulator_screenshot_5A406B95-4C76-4C52-BEEF-3D3BE2AC842D.png" width="200" height="200"> 
+<img src="https://www.linkpicture.com/q/simulator_screenshot_5A406B95-4C76-4C52-BEEF-3D3BE2AC842D.png" width="200" height="200">  -->
+<p align="center">
+  <img alt="Light" src="https://www.linkpicture.com/q/simulator_screenshot_5A406B95-4C76-4C52-BEEF-3D3BE2AC842D.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://www.linkpicture.com/q/simulator_screenshot_5A406B95-4C76-4C52-BEEF-3D3BE2AC842D.png" width="45%">
+</p>
 
 You can get Api's using this link
 [a link](https://reqres.in/)
